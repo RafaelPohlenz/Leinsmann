@@ -1,0 +1,30 @@
+.img-responsive{ max-width: 100%; height: auto;display: block}
+body{background-color:#F7F4F4 ;width: auto;height: auto;margin: auto}
+.container{margin: auto;width: auto;height: auto;}
+img{margin: auto}
+
+.myCarousel{margin: auto;width: auto;height: auto}
+.carousel-inner > .item > img {
+	position:relative;dfdf
+	min-width: 40%;
+	height: 300px; /* Altura da imagem dentro do Carousel */
+}
+
+p{text-align: justify;padding: 5px 5px}
+.row{margin-top: 10px;}
+#imgb{
+
+	position:relative;
+	min-width: 40%;
+	height: 200px; /* Altura da imagem  */
+}
+
+.panel-body{text-align: justify;}
+
+li{font-size: 18px;}
+
+
+
+
+
+
