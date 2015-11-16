@@ -18,30 +18,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 
 
-	<script type="text/javascript">
-		function validaForm()
-		{
-			erro = false;
-			if($('#nome').val() == '')
-			{
-				alert('Você precisa preencher o campo Nome');erro = true;
-			}
-			if($('#email').val() == '' && !erro)
-			{
-				alert('Você precisa preencher o campo E-mail');erro = true;
-			}
-			if($('#mensagem').val() == '' && !erro)
-			{
-				alert('Você precisa preencher o campo Mensagem');erro = true;
-			}
-
-    //se nao tiver erros
-    if(!erro)
-    {
-    	$('#formulario_contato').submit();
-    }
-}
-</script>
+	
 </head>
 <body>
 
@@ -77,46 +54,9 @@
 
 		</div>
 
-		<div class="row">
-			<div class="col-sm-12">
-				<div class="panel panel-default">
-					<!-- 	Contato-->
-					<div class="panel-heading">Outros meios de contatto com a empresa:</div>
-					<div class="panel-body">
-					Telefone: (49)9903-1638<br><br>
-					Email: Iccomercial@yahoo.com.br
+		<?php include 'rodape.php' ?>
 
-
-
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-sm-12">
-				<div class="panel panel-default">
-					<!-- 	Contato-->
-					<div class="panel-heading">Endereço</div>
-					<div class="panel-body">
-					Rua Brásilia,1111 -Sala 81 - B. São Cristóvão - Caçador - SC- 89.500-000
-
-
-
-					</div>
-				</div>
-			</div>
-		</div>
-					<?php include 'rodape.php' ?>
-
-
-
-
-
-
-
-
-
-				</div>
-			</body>
-			</html>
+		
+	</div>
+</body>
+</html>

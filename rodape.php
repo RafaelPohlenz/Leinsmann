@@ -1,12 +1,12 @@
 <div class="row">
 	<div class="col-sm-6">
 		<div class="panel panel-default">
-			<!-- ... Redes sociais mais efeito onmouseover ... -->
+			<!-- ... painel todo aqui ... -->
 			<div class="panel-heading">REDES SOCIAIS</div><br>
-			<a href="#"><img src="img/fb40.png" border="0" onmouseover="this.src='img/fb40pb.png'" onmouseout="this.src='img/fb40.png'"></a>
-			<a href="#"><img src="img/tw.png" border="0" onmouseover="this.src='img/twpb.png'" onmouseout="this.src='img/tw.png'"></a><br><br>
-			<a href="#"><img src="img/wht41.png"border="0" onmouseover="this.src='img/wht41pb.png'" onmouseout="this.src='img/wht41.png'"></a>
-			<a href="#"><img src="img/yho.png"border="0" onmouseover="this.src='img/yhopb.png'" onmouseout="this.src='img/yho.png'"></a>
+			<a href="#"><img src="img/fb40.png"></a>
+			<a href="#"><img src="img/tw.png" ></a><br><br>
+			<a href="#"><img src="img/wht41.png"></a>
+			<a href="#"><img src="img/yho.png"></a>
 			
 		</div>
 	</div>
@@ -16,7 +16,7 @@
 			<!-- 	ATENDIMENTO -->
 			<div class="panel-heading">NOSSO ATENDIMENTO</div>
 			<div class="panel-body">SEGUNDA A SEXTA<br>
-				» 07h às 18h<br>
+				» 08h às 17h<br>
 				SÁBADO<br>
 				» 08h às 11h30 </p>
 			</div>
