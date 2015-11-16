@@ -31,7 +31,7 @@
 				
 
 					A empresa Leismann Comercial foi fundada em março de 2007 no município de caçador por Edson A. Leismann na Rua Brasília,1111-sala 81-b.
-					Ela produz chinelos de lã, botas, pantufas adulto e infantil além de bolas de E.V.A personalizadas para outras empresas. 
+					Ela produz chinelos de lã e pelego sintético, botas, pantufas adulto e infantil além de bolas de E.V.A personalizadas para outras empresas. 
 					Os tecidos e produtos utilizados na confecção são obtidos através de fornecedores em diversas cidades no estado de SC, PR e SP.
 					Atualmente a empresa conta com 8 funcionários e diversas máquinas de costura industrial para a fabricação de seus produtos. Seu principal meio de divulgação é através de representantes e informativos da cidade.
 				
