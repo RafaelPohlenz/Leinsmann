@@ -1,17 +1,18 @@
 .img-responsive{ max-width: 100%; height: auto;display: block}
-body{background-color:#F7F4F4 ;width: auto;height: auto;margin: auto}
+body{background-color:#F7F4F4 ;width: auto;height: auto;margin: auto;}
 .container{margin: auto;width: auto;height: auto;}
-img{margin: auto}
+img{margin: auto;}
 
 .myCarousel{margin: auto;width: auto;height: auto}
 .carousel-inner > .item > img {
-	position:relative;dfdf
+	position:relative;
 	min-width: 40%;
 	height: 300px; /* Altura da imagem dentro do Carousel */
 }
 
 p{text-align: justify;padding: 5px 5px}
-.row{margin-top: 10px;}
+
+.navbar{margin-top: 10px;}
 #imgb{
 
 	position:relative;
@@ -19,12 +20,15 @@ p{text-align: justify;padding: 5px 5px}
 	height: 200px; /*Altura da imagem*/
 }
 
+
 .panel-body{text-align: justify;}
 
 li{font-size: 18px;}
 
+/*efeito mouse houver */
 
+#imgb{transition: all 0.5s cubic-bezier(0.680, -0.550, 0.265, 1.550);}
+#imgb:hover{transform: scale(1.2); }
 
-
-
-
+textarea{margin: auto;margin-left: auto;}
+antigo
