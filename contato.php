@@ -20,6 +20,7 @@
 
 </head>
 <body>
+<?php include 'fundo.php';?>
 
 	<div class="container">
 
@@ -31,7 +32,7 @@
 					<!-- 	Contato-->
 					<div class="panel-heading">Contato</div>
 					<div class="panel-body">
-						<form role="form">
+						<form action="#" role="form" method="POST">
 							<div class="form-group">
 								<label for="Name">Nome ou Empresa:</label>
 								<input placeholder="Nome ou Empresa:" type="text" class="form-control" id="nome" required>

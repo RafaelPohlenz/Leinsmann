@@ -20,6 +20,7 @@
 
 </head>
 <body>
+<?php include 'fundo.php';?>
 	<div class="container">
 		<?php include 'menu.php';?>
 

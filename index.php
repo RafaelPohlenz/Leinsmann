@@ -17,20 +17,20 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+<?php include 'fundo.php';?>
+<div class="container">
+			<?php include 'menu.php';?>
 
-	<div class="container">
-		<?php include 'menu.php';?>
+			<div class="row">
+				<div class="col-sm-12">
 
-		<div class="row">
-			<div class="col-sm-12">
+					<!-- carousel -->
+					<div id="myCarousel" class="carousel slide" data-ride="carousel">
+						<!-- Indicators -->
+						<ol class="carousel-indicators">
 
-				<!-- carousel -->
-				<div id="myCarousel" class="carousel slide" data-ride="carousel">
-					<!-- Indicators -->
-					<ol class="carousel-indicators">
-
-						<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-						<li data-target="#myCarousel" data-slide-to="1"></li>
+							<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+							<li data-target="#myCarousel" data-slide-to="1"></li>
 				    <!-- <li data-target="#myCarousel" data-slide-to="2"></li>
 				    <li data-target="#myCarousel" data-slide-to="3"></li> -->
 				</ol>
@@ -84,22 +84,10 @@
 
 	</div>
 
-	<div class="row">
-		<div class="col-sm-12">
-			<div class="panel panel-default">
-				<!-- ... painel todo aqui ... -->
-
-				POSTAGENS DO SITE
-			</div>
-		</div>		
-	</div>
-
-
 	<?php include 'rodape.php'; ?>
 
 
 </div>
-
 
 
 </body>
