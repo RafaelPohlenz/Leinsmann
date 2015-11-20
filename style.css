@@ -1,6 +1,6 @@
 .img-responsive{ max-width: 100%; height: auto;display: block}
 body{background-color:#F7F4F4 ;width: auto;height: auto;margin: auto;}
-.container{margin: auto;width: auto;height: auto;padding: 20px }
+.container{margin: auto;width: auto;height: auto;padding: 20px; }
 img{margin: auto;}
 
 .myCarousel{margin: auto;width: auto;height: auto;color: black}

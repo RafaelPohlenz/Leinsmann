@@ -31,7 +31,7 @@
 		<div class="col-sm-12">
 			<div class="panel panel-default">
 				<!-- ... painel todo aqui ... -->
-				<p>Copyright © 2015 Todos os Direitos Reservados a empresa Leismann Comercial ® </p>
+				<p>Copyright © 2015 Todos os Direitos Reservados a empresa Leismann Comercial ® <a href="desen.php">Desenvolvedores</a>  </p>
 			</div>
 		</div>
 
