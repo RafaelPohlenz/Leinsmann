@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -45,27 +46,11 @@
 						<div class="panel-body">
 
 							<div class="col-sm-4" >
-								<a href="#"></a><img id="imgb" src="produtos/bota.jpg" >
-								<h2>Bota </h2>
-								<p>Produto feito com materiais de lã</p>
-							</div>
-							<div class="col-sm-4" >
-								<a href="#"></a><img id="imgb" src="produtos/bolas eva.jpg" >
-								<h2>Bola de E.V.A </h2>
-								<p>Produto feito com materiais sintéticos</p>
-							</div>
-							<div class="col-sm-4" >
 								<a href="#"></a><img id="imgb" src="produtos/chinelo.jpg" >
 								<h2>Chinelo </h2>
 								<p>Produto feito com materiais de lã</p>
 							</div>
-							<div class="col-sm-4" >
-								<a href="#"></a><img id="imgb" src="produtos/pantufa2.jpg" >
-								<h2>Pantufa </h2>
-								<p>Produto feito com materiais de lã</p>
-							</div>
-
-
+							
 						</div>
 					</div>
 				</div>

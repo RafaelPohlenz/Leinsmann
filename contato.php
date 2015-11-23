@@ -59,8 +59,8 @@
 					<!-- 	Contato-->
 					<div class="panel-heading">Outros meios de contato com a empresa:</div>
 					<div class="panel-body">
-					Telefone: (49)9903-1638<br><br>
-					Email: Iccomercial@yahoo.com.br
+					Telefone: (49)9903-1639<br><br>
+					Email: Iccomercial1@yahoo.com.br
 
 
 
