@@ -30,7 +30,13 @@
 				Este site foi desenvolvido por alunos do curso de Técnico em informatica com o objetivo de conclusão final do curso TCC.<br><br>
 				O design e codificação foram feitos por:<br><br>
 				Luiz Adriano Soares Koepp;<br>
-				Rafael Pohlenz Calistro.
+				Rafael Pohlenz Calistro.<br><br>
+
+				E-mail de contato:<br><br>
+				rafaelpohlenz@gmail.com<br>
+				luizadrianosoares@outlook.com
+
+
 				</div>	
 			</div>
 		</div>
