@@ -16,6 +16,7 @@
 
 
 	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="icon" type="image/png" href="img/favicon.ico" />
 
 
 </head>
@@ -32,20 +33,20 @@
 					<!-- 	Contato-->
 					<div class="panel-heading">Contato</div>
 					<div class="panel-body">
-						<form action="#" role="form" method="POST">
+						<form action="enviar.php" role="form" method="POST">
 							<div class="form-group">
 								<label for="Name">Nome ou Empresa:</label>
-								<input placeholder="Nome ou Empresa:" type="text" class="form-control" id="nome" required>
+								<input placeholder="Nome ou Empresa:" type="text" class="form-control" id="nome" name="nome" required>
 							</div>
 							<div class="form-group">
 								<label for="email">Email address:</label>
-								<input placeholder="exemplo@exemplo.com" type="email" class="form-control" id="email" required>
+								<input placeholder="exemplo@exemplo.com" type="email" class="form-control" id="email" name="email" required>
 							</div>
 							<div class="form-group">								<label  for="Mensagem">Mensagem:</label>
-								<textarea placeholder="Mensagem" type="text" class="form-control" id="mensagem" required></textarea>
+								<textarea placeholder="Mensagem" type="text" class="form-control" id="mensagem" name="mensagem" required></textarea>
 							</div>
 							
-							<button type="submit" class="btn btn-default" onclick="validaForm()">Enviar</button>
+							<button type="submit" class="btn btn-default">Enviar</button>
 						</form>
 					</div>
 				</div>

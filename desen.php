@@ -16,6 +16,7 @@
 
 
 	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="icon" type="image/png" href="img/favicon.ico" />
 </head>
 <body>
 <div class="container">

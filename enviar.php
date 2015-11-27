@@ -1,10 +1,10 @@
 <?
 
 //pega as variaveis por POST
-$nome      = $_POST["nome"];
-$email   = $_POST["email"];
-$assunto   = $_POST["assunto"];
-$mensagem  = $_POST["mensagem"];
+$nome      = $_GET["nome"];
+$email   = $_GET["email"];
+$assunto   = $_GET["assunto"];
+$mensagem  = $_GET["mensagem"];
 
 global $email; //função para validar a variável $email no script todo
 
