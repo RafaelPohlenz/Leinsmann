@@ -33,20 +33,20 @@
 					<!-- 	Contato-->
 					<div class="panel-heading">Contato</div>
 					<div class="panel-body">
-						<form action="enviar.php" role="form" method="POST">
+						<form action="enviar.php" method="POST">
 							<div class="form-group">
 								<label for="Name">Nome ou Empresa:</label>
-								<input placeholder="Nome ou Empresa:" type="text" class="form-control" id="nome" name="nome" required>
+								<input name="nome"  placeholder="Nome ou Empresa:" type="text" class="form-control" id="nome" required>
 							</div>
 							<div class="form-group">
 								<label for="email">Email address:</label>
-								<input placeholder="exemplo@exemplo.com" type="email" class="form-control" id="email" name="email" required>
+								<input name="email" placeholder="exemplo@exemplo.com" type="email" class="form-control" id="email"  required>
 							</div>
 							<div class="form-group">								<label  for="Mensagem">Mensagem:</label>
-								<textarea placeholder="Mensagem" type="text" class="form-control" id="mensagem" name="mensagem" required></textarea>
+								<textarea name="mensagem"  placeholder="Mensagem" type="text" class="form-control" rows="5" id="mensagem" required></textarea>
 							</div>
 							
-							<button type="submit" class="btn btn-default">Enviar</button>
+							<button type="submit" class="btn btn-default" data-toggle="modal" data-target="#myModal">Enviar</button>
 						</form>
 					</div>
 				</div>

@@ -7,8 +7,8 @@ h3{color: white;}
 .myCarousel{margin: auto;width: auto;height: auto;color: black}
 .carousel-inner > .item > img {
 	position:relative;
-	min-width: 20%;
-	height: 300px; /* Altura da imagem dentro do Carousel */
+	min-width: 50%;
+	height: 320px; /* Altura da imagem dentro do Carousel */
 }
 /*cor dentro do carousel*/
 .item{background-color: #999999;}
@@ -59,3 +59,5 @@ textarea{margin: auto;margin-left: auto;}
 }
 
 #disqus_thread{margin: auto;margin-right: auto;}
+#center{text-align: center;}
+.panel-heading{text-align: center;}
